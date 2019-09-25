@@ -18,13 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "PhD Student"
+  company = "University of Chicago, Marlow Lab"
+  company_url = "https://uchicago.edu"
+  location = "Chicago, IL"
+  date_start = "2019-09-01"
+  date_end = ""
+
+[[experience]]
   title = "Master's internship"
   company = "Pasteur Institute"
   company_url = "https://www.pasteur.fr/en/institut-pasteur"
   location = "Paris, France"
-  date_start = "December 2018"
-  date_end = "June 2019"
-  description = """Performed research on the evolution of cis-regulatory landscapes and 3D genome organization in deuterostomes."""
+  date_start = "2018-12-01"
+  date_end = "2019-06-30"
+  description = """Performed research on the evolution of cis-regulatory landscapes and 3D genome organization in deuterostomes.
   Responsibilities include:
   
   * Lab experiments
@@ -36,8 +44,8 @@ date_format = "Jan 2006"
   company = "Institute for Molecular Genetics and Genetic Engineering"
   company_url = "https://www.imgge.bg.ac.rs/en/"
   location = "Belgrade, Serbia"
-  date_start = "August 2016"
-  date_end = "June 2018"
+  date_start = "2016-08-01"
+  date_end = "2018-06-30"
   description = """Performed research on the functional variants of human SMAD4 promoter."""
 
 [[experience]]
@@ -45,7 +53,7 @@ date_format = "Jan 2006"
   company = "European Amgen Scholars Program at Institut Pasteur"
   company_url = "https://amgenscholars.com/europe-programme"
   location = "Paris, France"
-  date_start = "July 2017"
-  date_end = "August 2017"
+  date_start = "2017-07-01"
+  date_end = "2017-08-30"
   description = """Performed research on the effects of nutrient restriction on precocious ageing markers in human primary cells."""
 +++
