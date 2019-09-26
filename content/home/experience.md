@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Belgrade, Serbia"
   date_start = "2016-08-01"
   date_end = "2018-06-30"
-  description = """Performed research on the functional variants of human SMAD4 promoter."""
+  description = "Performed research on the functional variants of human SMAD4 promoter."
 
 [[experience]]
   title = "Amgen Scholar"
@@ -61,5 +61,5 @@ date_format = "Jan 2006"
   location = "Paris, France"
   date_start = "2017-07-01"
   date_end = "2017-08-30"
-  description = """Performed research on the effects of nutrient restriction on precocious ageing markers in human primary cells."""
+  description = "Performed research on the effects of nutrient restriction on precocious ageing markers in human primary cells."
 +++
