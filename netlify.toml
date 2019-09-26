@@ -9,10 +9,3 @@ HUGO_ENABLEGITINFO = "true"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.55.6"
-
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-
-public/
