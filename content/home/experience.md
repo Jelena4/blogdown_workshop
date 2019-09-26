@@ -38,12 +38,7 @@ date_format = "Jan 2006"
   location = "Paris, France"
   date_start = "2018-12-01"
   date_end = "2019-06-30"
-  description = """Performed research on the evolution of cis-regulatory landscapes and 3D genome organization in deuterostomes.
-  Responsibilities include:
-  
-  * Lab experiments
-  * Data analysis
-  """
+  description = "Performed research (both experiments and data analysis) on the evolution of cis-regulatory landscapes and 3D genome organization in deuterostomes."
 
 [[experience]]
   title = "Volunteer"
