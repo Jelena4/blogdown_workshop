@@ -24,6 +24,12 @@ date_format = "Jan 2006"
   location = "Chicago, IL"
   date_start = "2019-09-01"
   date_end = ""
+  description = """Research on the evolution of cis-regulatory landscapes in animals.
+  Responsibilities include:
+  
+  * Lab experiments
+  * Data analysis
+  """
 
 [[experience]]
   title = "Master's internship"
